@@ -1,0 +1,44 @@
+{
+  "developers": [
+    {
+      "hobby": "Voluptate aliquip consequat esse incididunt cillum consectetur irure anim. Sint nisi nulla nostrud ea proident adipisicing enim reprehenderit. Consequat laborum veniam adipisicing esse voluptate sunt. Duis culpa proident qui id elit fugiat in enim aliquip ad et. Adipisicing aliqua enim do dolor dolore est. Est est cillum sunt reprehenderit elit.\r\n",
+      "idade": "24",
+      "datanascimento": "Sat Aug 23 1997 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+      "sexo": "Masculino",
+      "nome": "Rodrigo Alves",
+      "id": "618b18f05ed3753ef571a44c"
+    },
+    {
+      "id": "618b18f0d382e8d2b54f35b6",
+      "nome": "Aline Cruz",
+      "sexo": "Feminino",
+      "idade": 28,
+      "hobby": "Mollit anim sunt ut et sit sunt. Culpa eiusmod laboris proident reprehenderit excepteur id nisi. Sunt esse est culpa eu nostrud eu anim nulla.\r\n",
+      "datanascimento": "Thu Mar 11 1993 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+      "id": "618b18f0245b9984475ac8c9",
+      "nome": "Socorro Alves",
+      "sexo": "Feminino",
+      "idade": 27,
+      "hobby": "Mollit labore deserunt non ad enim. Elit aute pariatur cillum incididunt irure sit nulla cillum eiusmod qui. Culpa eiusmod incididunt aliquip dolore et sit magna nostrud do duis quis in labore elit. Non enim ex exercitation aliqua qui labore excepteur aliquip fugiat ea nisi aute est. In culpa deserunt velit amet labore ad exercitation fugiat anim nostrud Lorem deserunt ad. Aute ex cupidatat est quis laborum nisi adipisicing adipisicing cillum dolore tempor.\r\n",
+      "datanascimento": "Thu May 12 1994 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+      "id": "618b18f0d35f121ce1cbeec0",
+      "nome": "Delacruz Vieira",
+      "sexo": "Masculino",
+      "idade": 32,
+      "hobby": "Nostrud excepteur esse officia velit minim laboris adipisicing Lorem ullamco voluptate aliqua. Laboris laborum culpa aute consectetur excepteur. Qui ullamco ex consectetur culpa amet qui. Irure proident duis culpa adipisicing cillum esse sit et nulla nostrud commodo.\r\n",
+      "datanascimento": "Thu Sep 28 1989 00:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+      "id": "618b18f0b8831e48e918b5f8",
+      "nome": "Michele Moreno",
+      "sexo": "Feminino",
+      "idade": 29,
+      "hobby": "Cupidatat eu et occaecat et ipsum occaecat occaecat sint qui est irure. Commodo elit sit fugiat cupidatat consequat enim cupidatat exercitation ad ut consequat ea dolore. Non ullamco laboris est quis minim fugiat tempor ex aliqua cillum Lorem nisi laborum Lorem. Ipsum cupidatat irure deserunt culpa et. Dolore officia exercitation ad proident nostrud eu cillum fugiat ea culpa esse aute fugiat.\r\n",
+      "datanascimento": "Tue Dec 03 1991 00:00:00 GMT-0200 (Horário de Verão de Brasília)"
+    }
+  ]
+}
